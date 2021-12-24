@@ -1,0 +1,7 @@
+-- All the scripts listed here are devoloped by kremmz | Kremmz's community : https://discord.gg/Kj9jyzMr
+
+--Xmas
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NiquilSipper240/XmasUtill/main/kremmzwashere"))()
+
+-- Astolfo.cc
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NiquilSipper240/Astolfo.cc/main/kremmz"))()
